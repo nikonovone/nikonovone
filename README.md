@@ -18,7 +18,9 @@ I just started using GitHub, so this page will be gradually updated, also check 
     Contact with me:
 </h2>
 <div align = "left">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
+    <a href = "http://t.me/NikitaNikonov">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32"/>
+    </a>
 </div>
 
 <h4 align="Left">
