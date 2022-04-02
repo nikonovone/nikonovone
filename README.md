@@ -1,7 +1,7 @@
 <div align = "center">
-    <img src="BG.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading."  height=250">
-    <img src="BG2.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading." height=250">
-    <img src="BG3.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading." height=250">
+    <img src="BG.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading."  height=200">
+    <img src="BG2.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading." height=200">
+    <img src="BG3.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading." height=200">
 </div>
 
 <h1 align="center">
