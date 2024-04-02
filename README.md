@@ -36,15 +36,7 @@ I just started using GitHub, so this page will be gradually updated, also check 
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" height="25"/>
-</div> 
-                                                                                                                           
-<h3 align="Left">
-    Statistika:
-</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikonovone)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</div>
 
 
 
