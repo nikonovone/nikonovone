@@ -12,7 +12,7 @@
     Interested in Data Science, microelectronics engineer and nanotechnologist.
 </h3>
 
-I just started using GitHub, so this page will be gradually updated, also check out my repositories, I will be glad!
+
 
 <h2 align="Left">
     Contact with me:
@@ -27,6 +27,7 @@ I just started using GitHub, so this page will be gradually updated, also check 
     My stack:
 </h3>
 <div>
+
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25"/>
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
@@ -36,6 +37,7 @@ I just started using GitHub, so this page will be gradually updated, also check 
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" height="25"/>
+ <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnikonovone&logo=leetcode&logoColor=yellow)" height="25"/>
 </div>
 
 
